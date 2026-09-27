@@ -5,7 +5,6 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 ## Autor
  
 - Imię i nazwisko: Radosław Wątrucki
-- Czym się zajmuję: Student Data Science
  
 ## Czego się tu uczę
  
