@@ -4,8 +4,8 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
  
 ## Autor
  
-- Imię i nazwisko: <twoje imię i nazwisko>
-- Czym się zajmuję: <jedno zdanie o sobie>
+- Imię i nazwisko: Radosław Wątrucki
+- Czym się zajmuję: Student Data Science
  
 ## Czego się tu uczę
  
